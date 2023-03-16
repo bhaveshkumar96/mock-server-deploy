@@ -1,18 +1,4 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "username": "Gertrudis Tatterton",
-        "email": "gtatterton0@ehow.com",
-        "password":"Gertrudis"
-      },
-      {
-        "id": 2,
-        "username": "Gail Newbatt",
-        "email": "gnewbatt1@un.org",
-        "password":"Gail"
-      }
-      
-    ],
+    "users": [],
     "hotels":[]
   }
